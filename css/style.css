@@ -1,0 +1,32 @@
+/*topo*/
+.topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+/*seção*/
+section img {
+    width: 55px;
+} 
+.meio p:last-child {
+    font-size: 35px;
+}
+.meio {
+    text-align: center;
+}
+/*rodape*/
+.rodape img{
+    width: 55px;
+}
+.rodape {
+    border-top: solid 5px #fff;
+    max-width: 1355px;
+}
+.meio video {
+    width: 300px;
+    height: 300px;
+}
+/*corpo*/
+body {
+    background: linear-gradient(to top, purple, blue);
+}
